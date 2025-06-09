@@ -1,5 +1,12 @@
 # Introduction 
-this file gives instructions on how to run this project. the weight files are also included, <br>
+this file gives instructions on how to run this project. <br>
+because the code repository is too large for direct uploading here, it's shared via google drive link:<br>
+
+https://drive.google.com/drive/folders/1ruqD9_kBaaQETqMms-sxMRqjyOZDHpsO?usp=drive_link
+
+After downloading the .zip file from above link, unzip it.
+
+the weight files are also included, <br>
 so you can directly run the attacks based on loaded weights by directly running the "run attacks" part, <br>
 or you can also choose to pre-train models from scratch, by firstly running the "pre-training" part.<br>
 
