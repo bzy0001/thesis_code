@@ -2,7 +2,7 @@
 this file gives instructions on how to run this project. <br>
 because the code repository is too large for direct uploading here, it's shared via google drive link:<br>
 
-https://drive.google.com/uc?export=download&id=1ruqD9_kBaaQETqMms-sxMRqjyOZDHpsO?usp=drive_link
+https://drive.google.com/uc?export=download&id=1ruqD9_kBaaQETqMms-sxMRqjyOZDHpsO
 
 After downloading the .zip file from above link, unzip it.
 
