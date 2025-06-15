@@ -2,8 +2,11 @@
 this file gives instructions on how to run this project. <br>
 because the code repository is too large for direct uploading here, it's shared via figshare. <br>
 click on the following link and download the code zip:<br>
-link: https://figshare.com/s/7aec193ade959d6a2c97 <br>
-After downloading the .zip file, unzip it.<br>
+link: 
+https://figshare.com/s/7aec193ade959d6a2c97 <br>
+the above link redirects to figshare page, just click on the downloading icon on the page to download.<br>
+After downloading the .zip file, unzip it. <br>
+the unzipped folder is the full code folder, there is a readme file in it which is same as below:<br>
 
 the weight files are also included, <br>
 so you can directly run the attacks based on loaded weights by directly running the "run attacks" part, <br>
@@ -207,7 +210,7 @@ similar for other datasets and model types.
 
 code sources:
 part of the above codes were from or modified based on open sources from online, published by auther of original works.<br>
-the Aegis part and BIN model: https://github.com/vul337/Aegis/blob/main/README.md<br>
+the Aegis and BIN models, and tbt part: https://github.com/vul337/Aegis/blob/main/README.md<br>
 the SDN part: https://github.com/yigitcankaya/Shallow-Deep-Networks<br>
 the APA attack modified based on: https://github.com/AI-secure/Adversarial-Parameter-Attack<br>
 the P3A attack modified based on: https://anonymous.4open.science/r/P3A-A12C/README.md<br>
