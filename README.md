@@ -1,10 +1,9 @@
 # Introduction 
 this file gives instructions on how to run this project. <br>
-because the code repository is too large for direct uploading here, it's shared via google drive link:<br>
-
-https://drive.google.com/uc?export=download&id=1ruqD9_kBaaQETqMms-sxMRqjyOZDHpsO
-
-After downloading the .zip file from above link, unzip it.
+because the code repository is too large for direct uploading here, it's shared via figshare. <br>
+click on the following link and download the code zip:<br>
+link: https://figshare.com/s/7aec193ade959d6a2c97 <br>
+After downloading the .zip file, unzip it.<br>
 
 the weight files are also included, <br>
 so you can directly run the attacks based on loaded weights by directly running the "run attacks" part, <br>
